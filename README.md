@@ -1,10 +1,11 @@
 # Data Analyst
 
-# Education
-This is where education will go.
+## Education
+B.A.S., Applied Computing Emphasis on Applied AI | University of Arizona (_ant. December 2025_)
+Certificate, Data Science and Visualization | University of Arizona (_ant. December 2025_)
 
-# Skills
+## Skills
 This is where skills will be listed.
 
-# Projects
+## Projects
 Projects will be shown here.
