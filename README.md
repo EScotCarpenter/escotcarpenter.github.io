@@ -1,7 +1,6 @@
 # Data Analyst
 
-## Languages
-- Python &nbsp;&nbsp;&nbsp; ● R &nbsp;&nbsp;&nbsp; ● SQL
+#### Languages: Python, R, SQL
 
 ## Projects
 **[Washington State Health Outcome Rankings](https://github.com/EScotCarpenter/washington-state-health-outcomes)**
