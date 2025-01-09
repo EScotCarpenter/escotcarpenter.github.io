@@ -1,7 +1,7 @@
 # Data Analyst
 
-## Skills
-This is where skills will be listed.
+## Languages
+- Python &nbsp;&nbsp;&nbsp; ● R &nbsp;&nbsp;&nbsp; ● SQL
 
 ## Projects
 **[Washington State Health Outcome Rankings](https://github.com/EScotCarpenter/washington-state-health-outcomes)**
