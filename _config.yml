@@ -1,5 +1,4 @@
 title: Elbert Scot Carpenter
-# This is the image for the page.
-#logo: relative path to image.
+logo: images/logo.jpg
 description: Applied Computing Major
 theme: jekyll-theme-minimal
