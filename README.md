@@ -37,6 +37,7 @@ Constructed and executed in R Quarto, this project analyzed tornado metrics, foc
 ---
 ## Education
   
-  B.A.S., Applied Computing Emphasis on Applied AI | University of Arizona (_ant. December 2025_) ![UofA](images/UofA_logo.png)
-  
-  Certificate, Data Science and Visualization | University of Arizona (_ant. December 2025_) ![UofA](images/UofA_logo.png)
+B.A.S., Applied Computing Emphasis on Applied AI | University of Arizona (_ant. December 2025_) | <img src="images/UofA_logo.png" alt="UofA" width="50">
+
+Certificate, Data Science and Visualization | University of Arizona (_ant. December 2025_) | <img src="images/UofA_logo.png" alt="UofA" width="50">
+
