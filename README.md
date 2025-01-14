@@ -1,6 +1,13 @@
 # Data Analyst
 
 #### Languages: Python, R, SQL
+---
+## About Me
+I’m a senior at the University of Arizona, pursuing a Bachelor of Applied Science in Applied Computing with an emphasis in Applied Artificial Intelligence. Additionally, I am pursuing an undergraduate certificate in Data Science and Visualization. My coursework has highlighted my skills in creating scripts using Python and R programming languages, enabling me to load, manipulate, transform, analyze, and visualize data.
+
+Through my courses, I have gained hands-on experience in training machine learning models, running statistical tests, and applying data mining techniques. These include Naive Bayes, k-Nearest Neighbors, linear and logistic regression, k-means clustering, binary trees, random forests, t-test, and ANOVA.
+
+In addition to my technical skills, I bring over 10 years of customer service experience, predominantly in lead and management roles. This background has instilled in me the importance of effective communication and teamwork. My ability to connect with people, resolve conflicts, and manage teams has been instrumental in my professional growth and success.
 
 ## Projects
 **[Washington State Health Outcome Rankings](https://github.com/EScotCarpenter/washington-state-health-outcomes)**
