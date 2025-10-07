@@ -12,6 +12,14 @@ In addition to my technical skills, I bring over 10 years of customer service ex
 ---
 
 ## Projects
+**[Go Ahead and Jump: Early and Often | 2025 SMT Data Challenge](https://github.com/EScotCarpenter/go-ahead-and-jump-analysis-of-outfielder-metrics)**
+
+**SQL \| Python \| Data Engineering \| Machine Learning \| Data Visualization**
+
+This project is my submission to the 2025 SMT Data Challenge where I leveraged Python and SQL with Minor League player and ball-tracking data to analyze metrics of outfielder’s routes, calculate Outs Above Average (OAA), recreate Statcast's Jump metric, and introduce Route Intensity which is the percentage of the outfielder’s route that an outfielder exerts high intensity by traveling at or near their max sprint speed.
+
+![scatter](images/hangtime_dist_scatter.png) | ![jump](images/jump_scatter.png)
+
 **[Washington State Health Outcome Rankings](https://github.com/EScotCarpenter/washington-state-health-outcomes)**
 
 **Python \| Hypothesis Testing \| Machine Learning \| OOP**
