@@ -3,7 +3,7 @@
 #### Languages: Python, R, SQL
 ---
 ## About Me
-I’m a senior at the University of Arizona, pursuing a Bachelor of Applied Science in Applied Computing with an emphasis in Applied Artificial Intelligence. Additionally, I am pursuing an undergraduate certificate in Data Science and Visualization. My coursework has highlighted my skills in creating scripts using Python and R programming languages, enabling me to load, manipulate, transform, analyze, and visualize data.
+I’m a new graduate from the University of Arizona, where I completed a Bachelor of Applied Science in Applied Computing with an emphasis in Applied Artificial Intelligence. Additionally, I completed an undergraduate certificate in Data Science and Visualization. My coursework has highlighted my skills in creating scripts using Python and R programming languages, enabling me to load, manipulate, transform, analyze, and visualize data. During my undergraduate career, I consistently earned recognition for academic excellence, including placement on the Dean’s List with Distinction (2023–2025), the Distinguished Undergraduate Scholar award (Fall 2025), and the Fall 2025 Merit Award, which honors graduating students who have overcome significant challenges in their academic journey.
 
 Through my courses, I have gained hands-on experience in training machine learning models, running statistical tests, and applying data mining techniques. These include Naive Bayes, k-Nearest Neighbors, linear and logistic regression, k-means clustering, binary trees, random forests, t-test, and ANOVA.
 
